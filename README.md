@@ -1,9 +1,7 @@
 # Aplikasi-Penjualan-Tanah-Kavling
 Aplikasi Penjualan Tanah Kavling menggunakan Database SQL SERVER.
 
-username dan Password
-
-![image](https://user-images.githubusercontent.com/67732382/135986026-250da5c9-41fd-4d55-a79a-28205d1fb38b.png)
+untuk username dan password jika belum ada dapat mendaftar terlebih dahulu
 
 preview app
 ![image](https://user-images.githubusercontent.com/67732382/135986119-8340e095-bd44-4fea-94a2-c0f9d09b13c0.png)
